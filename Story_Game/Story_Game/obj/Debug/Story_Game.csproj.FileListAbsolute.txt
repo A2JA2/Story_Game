@@ -1,0 +1,7 @@
+C:\Users\1321200\Desktop\Story_Game\Story_Game\bin\Debug\Story_Game.exe.config
+C:\Users\1321200\Desktop\Story_Game\Story_Game\bin\Debug\Story_Game.exe
+C:\Users\1321200\Desktop\Story_Game\Story_Game\bin\Debug\Story_Game.pdb
+C:\Users\1321200\Desktop\Story_Game\Story_Game\obj\Debug\Story_Game.csprojAssemblyReference.cache
+C:\Users\1321200\Desktop\Story_Game\Story_Game\obj\Debug\Story_Game.csproj.CoreCompileInputs.cache
+C:\Users\1321200\Desktop\Story_Game\Story_Game\obj\Debug\Story_Game.exe
+C:\Users\1321200\Desktop\Story_Game\Story_Game\obj\Debug\Story_Game.pdb
